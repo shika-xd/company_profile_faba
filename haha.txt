@@ -4,5 +4,9 @@ ES5
  - Esti
  - Mako
  - Yona
+ES6
+ - Hantu
+ - Runa
+ - Hena
 ES7
  - Moona
