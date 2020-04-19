@@ -1,3 +1,7 @@
 ini rencana baru
 ES5
+ - Budi
+ - Hani
 ES6
+ - Hantu
+ - Runa
