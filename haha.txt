@@ -1,9 +1,12 @@
 ini rencana baru
 ES5
- - Budi
- - Hani
- - Suki
+ - Yuni
+ - Esti
+ - Mako
+ - Yona
 ES6
  - Hantu
  - Runa
  - Hena
+ES7
+ - Moona
